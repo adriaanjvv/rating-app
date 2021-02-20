@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "rating-app-b33d0": {
+      "hosting": {
+        "rating-app": [
+          "rating-app-b33d0"
+        ]
+      }
+    }
+  }
+}
